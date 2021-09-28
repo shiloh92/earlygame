@@ -1,13 +1,9 @@
 {
-  "name": "wax-nft-scripts",
+  "name": "eg",
   "version": "1.0.0",
   "description": "",
-  "main": "tlm-payout.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
-  },
-  "author": "mann0000",
+  "main": "index.html",
+  "author": "cc2021",
   "license": "MIT",
   "engines": {
     "node": "12.x"
