@@ -1,0 +1,29 @@
+{
+  "name": "wax-nft-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tlm-payout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "mann0000",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "dependencies": {
+    "@dfuse/client": "^0.3.20",
+    "axios": "^0.21.3",
+    "dotenv": "^10.0.0",
+    "eosjs": "^21.0.4",
+    "node-fetch": "^2.6.1",
+    "node-telegram-bot-api": "^0.54.0",
+    "pg": "^8.7.1",
+    "request": "^2.88.2",
+    "telegraf": "^4.4.1",
+    "telegram-bot": "^0.4.2",
+    "ws": "^8.2.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
